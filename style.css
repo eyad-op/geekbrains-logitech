@@ -432,7 +432,7 @@ info__item-heading {
     line-height: 16px;
     width: 170px;
   }
-  .d-block {
+  .my-block {
     min-height: 300px;
     object-fit: cover;
     object-position: center !important;
@@ -708,7 +708,7 @@ info__item-heading {
     display: flex;
     justify-content: center;
   }
-  .d-block {
+  .my-block {
     min-height: 300px;
     object-fit: cover;
     object-position: center !important;
@@ -878,7 +878,7 @@ info__item-heading {
   margin: 0 10px;
 }
 
-.d-block {
+.my-block {
   min-height: 250px;
   object-fit: cover;
   object-position: -150px;
