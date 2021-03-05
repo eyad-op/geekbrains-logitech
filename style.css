@@ -432,6 +432,11 @@ info__item-heading {
     line-height: 16px;
     width: 170px;
   }
+  .d-block {
+    min-height: 300px;
+    object-fit: cover;
+    object-position: center !important;
+  }
 }
 
 @media (min-width: 1024px) {
@@ -703,6 +708,11 @@ info__item-heading {
     display: flex;
     justify-content: center;
   }
+  .d-block {
+    min-height: 300px;
+    object-fit: cover;
+    object-position: center !important;
+  }
 }
 
 /*BURGER MENU*/
@@ -869,7 +879,7 @@ info__item-heading {
 }
 
 .d-block {
-  min-height: 300px;
+  min-height: 250px;
   object-fit: cover;
-  object-position: right;
+  object-position: -150px;
 }
